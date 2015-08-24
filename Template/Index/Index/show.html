@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>关键词查看</title>
+
+    <!-- Bootstrap -->
+    <link href="__CSS__/bootstrap3/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="__CSS__/public/font-awesome.css" rel="stylesheet">
+    <link href="__CSS__/style.css" rel="stylesheet">
+    <link href="__CSS__/public/function.css" rel="stylesheet">
+
+      <!--[if lte IE 6]>
+        <link rel="stylesheet" type="text/css" href="__CSS__/bootstrap3/bootstrap-ie6.min.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap3/ie.css">
+      <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="__JS__/model/html5shiv.min.js"></script>
+      <script src="__JS__/model/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body class="bg-default">
+     <div class="content container-fluid col-md-12 col-sm-12 col-xs-12">
+          <div class="alert alert-info margin-top15" role="alert">尊敬的用户您好， 这是您的站点目前具有的关键词的排名</div>
+
+          <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading">关键词的排名</div>
+
+            <!-- Table -->
+            <table class="table table-hover">
+              <thead>
+                <tr>
+                  <th>序号</th>
+                  <th>关键词/积分</th>
+                  <th>更新时间</th>
+                </tr>
+              </thead>
+              <tbody>
+               <foreach name="infolist" item="v" key="key">
+                <tr>
+                  <th scope="row">{$key+1}</th>
+                  <td class="text-danger"><foreach name="v" item="v2">&nbsp;&nbsp;{$v2.key_name} : {$v2.rank}&nbsp;&nbsp;</foreach></td>
+                  <td>{$v[0]['time']|date='Y-m-d H:i:s',###}</td>
+                </tr>
+               </foreach>
+              </tbody>
+            </table>
+          </div>
+
+          {$page}
+
+     </div>
+   </div>
+	
+
+
+	<!-- JS 文件引入 -->
+    <script src="__JS__/model/jquery-1.11.3.min.js"></script>
+    <script src="__JS__/bootstrap3/bootstrap.min.js"></script>
+    <script src="__JS__/app.js"></script>
+    <!--[if lte IE 6]>
+      <script type="text/javascript" src="__JS__/bootstrap3/bootstrap-ie.js"></script>
+    <![endif]-->
+  </body>
+</html>

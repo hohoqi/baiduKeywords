@@ -1,0 +1,102 @@
+<section> <!--  <body class="sticky-header">  -->
+
+    <!-- left side start-->
+    <div ng-include="'view/leftside.html'" class="left-side sticky-left-side">
+       
+    </div>
+    <!-- left side end-->
+    
+    <!-- main content start-->
+    <div class="main-content" >
+
+        <!-- header section start-->
+        <div class="header-section" ng-include="'view/header.html'">
+
+        </div>
+        <!-- header section end-->
+
+        <!-- page heading start-->
+        <div class="page-heading">
+            <h3>
+                网站管理
+            </h3>
+            <ul class="breadcrumb">
+                <li class="active">收录查询</li>
+                <li class="active">反链查询</li>
+                <li class="active"> 权重查询 </li>
+            </ul>
+        </div>
+        <!-- page heading end-->
+
+        <!--body wrapper start-->
+        <div class="wrapper">
+             <div class="row">
+                <div class="col-sm-12">
+                <section class="panel">
+                
+                <div class="panel-body">
+                <div class="adv-table editable-table ">
+                <div class="clearfix">
+                    <div class="btn-group">
+                        <button id="editable-sample_new" class="btn btn-primary">
+                            添加站点 <i class="fa fa-plus"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="space15"></div>
+                <table class="table table-striped table-hover table-bordered" id="editable-sample">
+                <thead>
+                <tr>
+                    <th>站点名称</th>
+                    <th>站点链接</th>
+                    <th>百度收录</th>
+                    <th>百度反链</th>
+                    <th>PR</th>
+                    <th>百度权重</th>
+                    <th>关键词</th>
+                    <th>操作</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr class="" ng-repeat='v in infolist'>
+                    <td>{{v.title}}</td>
+                    <td>{{v.url}}</td>
+                    <td>{{v.bd_include}}</td>
+                    <td>{{v.trans}}</td>
+                    <td>{{v.pr}}</td>
+                    <td>{{v.weight}}</td>
+                    <td>{{v.keywords}}</td>
+                    <td>
+                        <a href="/view/add.html"><i class="fa fa-plus"></i></a>
+                    </td>
+                </tr>
+                
+                </tbody>
+                </table>
+                </div>
+                </div>
+                </section>
+                </div>
+                </div>
+        </div>
+        <!--body wrapper end-->
+
+        <!--footer section start-->
+        <footer ng-include="'view/footer.html'">
+        </footer>
+        <!--footer section end-->
+
+
+    </div>
+    <!-- main content end-->
+</section>
+
+<!--script for editable table-->
+<script src="view/js/editable-table.js"></script>
+
+<!-- END JAVASCRIPTS -->
+<script>
+    jQuery(document).ready(function() {
+        EditableTable.init();
+    });
+</script>

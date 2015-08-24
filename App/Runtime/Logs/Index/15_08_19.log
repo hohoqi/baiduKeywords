@@ -1,0 +1,1662 @@
+[ 2015-08-19T15:33:59+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 32 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='0' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+
+[ 2015-08-19T15:34:37+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 32 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门4,铜家具4' WHERE ( id = '2' ) [ RunTime:0.0140s ]
+
+[ 2015-08-19T15:34:43+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T15:34:43+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T15:35:19+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 32 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门:4,铜家具:4' WHERE ( id = '2' ) [ RunTime:0.0120s ]
+
+[ 2015-08-19T15:35:23+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T15:35:23+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T15:35:42+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 32 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4' WHERE ( id = '2' ) [ RunTime:0.0080s ]
+
+[ 2015-08-19T15:35:46+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-19T15:35:47+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T15:36:23+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 32 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 64 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4',`up_time`='1439969783' WHERE ( id = '2' ) [ RunTime:0.0100s ]
+
+[ 2015-08-19T15:36:28+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T15:36:28+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:32:27+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T16:32:27+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:32:30+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 74 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 74 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4',`keywords`=NULL,`up_time`='1439973150' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜家具'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:32:42+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+
+[ 2015-08-19T16:33:14+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 81 行.
+
+[ 2015-08-19T16:36:08+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T16:37:08+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 77 行.
+
+[ 2015-08-19T16:41:45+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:42:04+08:00 ] 127.0.0.1 /main.php/Index/Index/updata/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0030s ]
+SQL: UPDATE `yh_site` SET `title`='测试2',`url`='www.dukedoors.com',`star`='1',`keywords`='铜门,铜家具',`tips`='达瓦大大',`bd_include`='63',`trans`='0',`pr`='2',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4',`time`='1439798588',`up_time`='1439973150' WHERE `id` = 2 [ RunTime:0.0150s ]
+
+[ 2015-08-19T16:42:05+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T16:42:10+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 70 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 70 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4',`keywords`=NULL,`up_time`='1439973730' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜家具'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:42:17+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T16:42:17+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T16:48:49+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:48:53+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:48:55+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:48:59+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T16:49:02+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T16:51:21+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T16:51:24+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T16:52:03+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:18:17+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2015-08-19T17:18:20+08:00 ] 127.0.0.1 /main.php/Index/Index/updata/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: UPDATE `yh_site` SET `title`='测试2',`url`='www.dukedoors.com',`star`='1',`keywords`='铜门',`tips`='达瓦大大',`bd_include`='63',`trans`='0',`pr`='2',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4',`time`='1439798588',`up_time`='1439973730' WHERE `id` = 2 [ RunTime:0.0090s ]
+
+[ 2015-08-19T17:18:21+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:18:24+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0030s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+
+[ 2015-08-19T17:19:30+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:19:31+08:00 ] 127.0.0.1 /main.php/Index/Index/updata/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: UPDATE `yh_site` SET `title`='测试2',`url`='www.dukedoors.com',`star`='1',`keywords`='铜门',`tips`='达瓦大大',`bd_include`='63',`trans`='0',`pr`='2',`weight`='2',`rank`='铜门 : 4,  铜家具 : 4',`time`='1439798588',`up_time`='1439973730' WHERE `id` = 2 [ RunTime:0.0100s ]
+
+[ 2015-08-19T17:19:32+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:19:37+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T17:19:38+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:19:52+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门' WHERE ( id = '2' ) [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:19:52+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2015-08-19T17:19:53+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T17:19:54+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0020s ]
+
+[ 2015-08-19T17:19:55+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:19:56+08:00 ] 127.0.0.1 /main.php/Index/Index/updata/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0070s ]
+SQL: UPDATE `yh_site` SET `title`='测试2',`url`='www.dukedoors.com',`star`='1',`keywords`='铜门',`tips`='达瓦大大',`bd_include`='63',`trans`='0',`pr`='2',`weight`='2',`rank`='铜门 : 6',`time`='1439798588',`up_time`='1439973730' WHERE `id` = 2 [ RunTime:0.0120s ]
+
+[ 2015-08-19T17:19:57+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:19:59+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:20:00+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:20:02+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T17:20:02+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:20:04+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门' WHERE ( id = '2' ) [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:20:10+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T17:20:10+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:20:36+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:21:13+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976073' WHERE ( id = '2' ) [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:21:17+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T17:21:17+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:21:22+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976082' WHERE ( id = '2' ) [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:23:20+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976200' WHERE ( id = '2' ) [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:23:49+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976229' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:24:18+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976258' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `yh_report` (`rank`,`time`,`s_id`,`key_name`) VALUES (NULL,'1439976258','2','铜门') [ RunTime:0.0130s ]
+
+[ 2015-08-19T17:29:18+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976558' WHERE ( id = '2' ) [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`=NULL,`time`='1439976558' WHERE `id` = 1 [ RunTime:0.0080s ]
+
+[ 2015-08-19T17:29:43+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976583' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`=NULL,`time`='1439976583' WHERE `id` = 1 [ RunTime:0.0110s ]
+
+[ 2015-08-19T17:30:27+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 76 行.
+
+[ 2015-08-19T17:30:46+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976645' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`=NULL,`time`='1439976646' WHERE `id` = 1 [ RunTime:0.0100s ]
+
+[ 2015-08-19T17:31:18+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976678' WHERE ( id = '2' ) [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`=NULL,`time`='1439976678' WHERE `id` = 1 [ RunTime:0.0100s ]
+
+[ 2015-08-19T17:31:40+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 34 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 74 行.
+
+[ 2015-08-19T17:32:36+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 37 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 75 行.
+
+[ 2015-08-19T17:32:57+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 35 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 24 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976777' WHERE ( id = '2' ) [ RunTime:0.2000s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`=NULL,`time`='1439976777' WHERE `id` = 1 [ RunTime:0.0130s ]
+
+[ 2015-08-19T17:33:18+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 37 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 75 行.
+
+[ 2015-08-19T17:33:39+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 37 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 75 行.
+NOTIC: [8] Undefined variable: rank C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 23 行.
+
+[ 2015-08-19T17:34:18+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 35 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6',`keywords`='铜门',`up_time`='1439976858' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`='6',`time`='1439976858' WHERE `id` = 1 [ RunTime:0.0120s ]
+
+[ 2015-08-19T17:34:27+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:34:32+08:00 ] 127.0.0.1 /main.php/Index/Index/updata/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: UPDATE `yh_site` SET `title`='测试2',`url`='www.dukedoors.com',`star`='1',`keywords`='铜门,铜家具',`tips`='达瓦大大',`bd_include`='63',`trans`='0',`pr`='2',`weight`='2',`rank`='铜门 : 6',`time`='1439798588',`up_time`='1439976858' WHERE `id` = 2 [ RunTime:0.0110s ]
+
+[ 2015-08-19T17:34:33+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:34:35+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 35 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 73 行.
+SQL: UPDATE `yh_site` SET `bd_include`='63',`weight`='2',`rank`='铜门 : 6,  铜家具 : 4',`keywords`='铜门,铜家具',`up_time`='1439976875' WHERE ( id = '2' ) [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜门'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='铜门',`rank`='6',`time`='1439976875' WHERE `id` = 1 [ RunTime:0.0090s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '铜家具'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `yh_report` (`rank`,`time`,`s_id`,`key_name`) VALUES ('4','1439976875','2','铜家具') [ RunTime:0.0100s ]
+
+[ 2015-08-19T17:34:38+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T17:34:39+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Index\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') C:\web\www\a\App\Index\Controller\IndexController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:36:34+08:00 ] 127.0.0.1 /main.php/Index/Index/getInfo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id = '2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:36:47+08:00 ] 127.0.0.1 /main.php/Index/Index/updata/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0030s ]
+SQL: UPDATE `yh_site` SET `title`='重大机电',`url`='www.zhongdajidian.com',`star`='1',`keywords`='电磁除铁器,永磁除铁器,除铁器',`tips`='达瓦大大',`bd_include`='63',`trans`='0',`pr`='2',`weight`='2',`rank`='铜门 : 6,  铜家具 : 4',`time`='1439798588',`up_time`='1439976875' WHERE `id` = 2 [ RunTime:0.0100s ]
+
+[ 2015-08-19T17:36:49+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:37:15+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 115 行.
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 38 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 76 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 76 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 76 行.
+SQL: UPDATE `yh_site` SET `bd_include`='201',`weight`='0',`rank`='电磁除铁器 : 90,  永磁除铁器 : 183,  除铁器 : 235',`keywords`='电磁除铁器,永磁除铁器,除铁器',`up_time`='1439977035' WHERE ( id = '2' ) [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '电磁除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `yh_report` (`rank`,`time`,`s_id`,`key_name`) VALUES ('90','1439977035','2','电磁除铁器') [ RunTime:0.0110s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '永磁除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `yh_report` (`rank`,`time`,`s_id`,`key_name`) VALUES ('183','1439977035','2','永磁除铁器') [ RunTime:0.0110s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `yh_report` (`rank`,`time`,`s_id`,`key_name`) VALUES ('235','1439977035','2','除铁器') [ RunTime:0.0180s ]
+
+[ 2015-08-19T17:37:15+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T17:37:15+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:40:46+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:40:51+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:41:24+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 119 行.
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 38 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+SQL: UPDATE `yh_site` SET `bd_include`='201',`weight`='0',`rank`='电磁除铁器 : 60+,  永磁除铁器 : 60+,  除铁器 : 60+',`keywords`='电磁除铁器,永磁除铁器,除铁器',`up_time`='1439977284' WHERE ( id = '2' ) [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '电磁除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='电磁除铁器',`rank`='60',`time`='1439977284' WHERE `id` = 3 [ RunTime:0.0100s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '永磁除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='永磁除铁器',`rank`='60',`time`='1439977284' WHERE `id` = 4 [ RunTime:0.0100s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='除铁器',`rank`='60',`time`='1439977284' WHERE `id` = 5 [ RunTime:0.0120s ]
+
+[ 2015-08-19T17:41:29+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T17:41:29+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:42:32+08:00 ] 127.0.0.1 /main.php/Index/Index/repeat/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `yh_site` WHERE ( id='2' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 119 行.
+NOTIC: [8] Undefined variable: name C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 38 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+NOTIC: [8] Undefined variable: jg C:\web\www\a\App\Index\Event\IndexEvent.class.php 第 83 行.
+SQL: UPDATE `yh_site` SET `bd_include`='201',`weight`='0',`rank`='电磁除铁器 : 60+,  永磁除铁器 : 60+,  除铁器 : 60+',`keywords`='电磁除铁器,永磁除铁器,除铁器',`up_time`='1439977352' WHERE ( id = '2' ) [ RunTime:0.0110s ]
+SQL: SHOW COLUMNS FROM `yh_report` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '电磁除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='电磁除铁器',`rank`='60+',`time`='1439977352' WHERE `id` = 3 [ RunTime:0.0110s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '永磁除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='永磁除铁器',`rank`='60+',`time`='1439977352' WHERE `id` = 4 [ RunTime:0.0100s ]
+SQL: SELECT * FROM `yh_report` WHERE ( s_id = '2' AND key_name = '除铁器'  AND (DAY(FROM_UNIXTIME(time, '%Y%m%d'))= DAY(now())) ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `yh_report` SET `s_id`='2',`key_name`='除铁器',`rank`='60+',`time`='1439977352' WHERE `id` = 5 [ RunTime:0.0100s ]
+
+[ 2015-08-19T17:42:39+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T17:42:40+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:43:05+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:45:35+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T17:45:36+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:47:05+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-19T17:47:05+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:49:34+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-08-19T17:49:35+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:49:42+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:49:44+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:52:06+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T17:52:07+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-08-19T17:52:08+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0000s ]
+
+[ 2015-08-19T17:55:45+08:00 ] 127.0.0.1 /main.php/Index/login/getUserStatus/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-08-19T17:55:47+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+
+[ 2015-08-19T18:05:06+08:00 ] 127.0.0.1 /main.php/Index/Index/alist/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `yh_site` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `yh_site`  [ RunTime:0.0010s ]
+

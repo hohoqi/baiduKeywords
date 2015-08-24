@@ -1,0 +1,84 @@
+<nav class="navbar bg-primary text-white" ng-include="'view/header.html'"></nav>
+   <div class="cont-wrap">
+     <div class="content container-fluid col-md-12 col-sm-12 col-xs-12">
+          <div class="container-fluid margin-top15 no-padding margin-bottom15">
+            <a class="btn btn-primary bth-lg" href="javascript:;" ng-click="$location.path('add')" role="button">添加站点</a>
+
+            <form class="form-inline pull-right col-md-4 col-sm-6 col-xs-12 no-padding">
+              <div class="form-group col-md-7 col-sm-7 col-xs-10 no-padding pull-right">
+                <input type="text" class="form-control" id="keywords" placeholder="请输入站点名称" style="width:100%" ng-model="search" ng-keyup="searchBtn()">
+              </div>
+
+              <div class="form-group col-md-4 col-sm-4 col-xs-12 pull-right">
+                <select class="form-control selectchange" ng-model='select' ng-change="selectBtn()">
+                    <option value="0" >选择星级</option>
+                    <option value="1">1星</option>
+                    <option value="2">2星</option>
+                    <option value="3">3星</option>
+                    <option value="4">4星</option>
+                    <option value="5">5星</option>
+                    <option value="6">6星</option>
+                </select>
+              </div>
+
+            </form>
+
+
+          </div>
+
+          <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading">站点管理</div>
+
+            <!-- Table -->
+            <table class="table table-hover">
+              <thead>
+                <tr>
+                  <th width="5%">编号</th>
+                  <th width="10%">站点名称</th>
+                  <th width="11%">站点链接</th>
+                  <th width="7%">百度收录</th>
+                  <th width="7%">PR</th>
+                  <th width="7%">百度权重</th>
+                  <th width="23%">关键词</th>
+                   <th width="13%">更新时间</th>
+                  <th width="18%">操作</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr ng-repeat="v in infolist" class="list-ang">
+                  <th scope="row">{{v.id}}</th>
+                  <td ng-bind-html="v.title"></td>
+                  <td ng-bind-html="v.url"></td>
+                  <td ng-bind-html="v.bd_include"></td>
+                  <td ng-bind-html="v.pr"></td>
+                  <td ng-bind-html="v.weight"></td>
+                  <td ng-bind-html="v.rank"></td>
+                  <td ng-bind-html="v.up_time * 1000|date:'yyyy-MM-dd HH:mm:ss'"></td>
+                  <td>
+                    <a class="btn btn-warning bth-lg" href="/Index/Index/show/id/{{v.id}}" role="button" target="_blank"><i class="fa fa-table"></i></a>
+                    <a class="btn btn-success bth-lg" href="javascript:;" role="button" ng-click="repeat(v.id, $index)"><i class="fa fa-repeat"></i></a>
+                    <a class="btn btn-primary bth-lg media-mb15" href="javascript:;" ng-click="$location.path('updata/' + v.id);" role="button"><i class="fa fa-pencil"></i></a>
+                    <a class="btn btn-danger bth-lg" href="javascript:;" ng-click="delete(v.id, $index)" role="button"><i class="fa fa-minus"></i></a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <nav class="pull-right" ng-show='pageShow'>
+            <ul class="pagination">
+              <li ng-class="pageFirst" ng-click="pageBtn('first')"><a href="javascript:;" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+
+              <li ng-repeat-start='v in pageLength' ng-class="v.class" ng-click="pageBtn(v.p)" ng-repeat-end ><a href="javascript:;">{{v.p}} <span class="sr-only">(current)</span></a></li>
+              
+              <!-- <li><a href="#">3 <span class="sr-only">(current)</span></a></li>
+              <li><a href="#">4 <span class="sr-only">(current)</span></a></li>
+              <li><a href="#">5 <span class="sr-only">(current)</span></a></li>
+              <li><a href="#">10 <span class="sr-only">(current)</span></a></li> -->
+              <li ng-class="pageLast" ng-click="pageBtn('last')"><a href="javascript:;" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+            </ul>
+          </nav>
+
+     </div>
+   </div>

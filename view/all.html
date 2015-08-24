@@ -1,0 +1,12 @@
+<nav class="navbar bg-primary text-white" ng-include="'view/header.html'"></nav>
+   <div class="cont-wrap">
+     <div class="content container-fluid col-md-12 col-sm-12 col-xs-12 min-height-100">
+     	 <div class="progress pro-center" ng-show="progressShow">
+		  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: {{progress}};">
+		    {{progressName}}
+		  </div>
+		</div>
+
+         <a class="btn btn-primary btn-lg btn-center" href="javascript:;" ng-click="getAll()" role="button">一键刷新</a>
+     </div>
+   </div>
